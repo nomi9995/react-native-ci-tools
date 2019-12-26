@@ -2,6 +2,11 @@
 
 Change application bundle name and ID on the fly (build time) for both Android and IOS
 
+  installation:
+
+    yarn add global rename-horizon
+    npm install -g rename-horizon
+
 Usage: rename-horizon [options] [command]
 
 

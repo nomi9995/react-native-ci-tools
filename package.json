@@ -74,5 +74,5 @@
 		"coverage": "nyc report --reporter=text-lcov | coveralls",
 		"test": "nyc mocha ./src/**/*.spec.js --all --timeout=3000"
 	},
-	"version": "1.1.1"
+	"version": "1.1.2"
 }
